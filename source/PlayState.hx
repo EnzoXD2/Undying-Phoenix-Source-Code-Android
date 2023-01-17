@@ -61,6 +61,7 @@ import DialogueBoxPsych;
 import Conductor.Rating;
 #if sys
 import sys.FileSystem;
+import sys.io.File;
 #end
 
 #if VIDEOS_ALLOWED
