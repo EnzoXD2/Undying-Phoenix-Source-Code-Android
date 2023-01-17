@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				176
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				148
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				134
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xanthus/LPXanthP3",
+	"position": [
+		40,
+		310
+	],
+	"healthicon": "angered",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		102
+	],
+	"camera_position": [
+		-160,
+		-100
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}

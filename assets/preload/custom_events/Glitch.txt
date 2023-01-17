@@ -1,0 +1,3 @@
+Value 1: amount / glitching / chromatic
+Value 2: on / chromatic amount
+Recommended to use numbers between o to 1.

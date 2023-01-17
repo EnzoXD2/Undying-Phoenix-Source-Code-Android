@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idel"
+		},
+		{
+			"offsets": [
+				393,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				90,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				130,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				168,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				285,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Jumping"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dark_Majin_Poses",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "fun",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		0,
+		254
+	],
+	"camera_position": [
+		-130,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

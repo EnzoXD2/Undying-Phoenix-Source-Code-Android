@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idel",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				152
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right ins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				408,
+				95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left ins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down ins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up ins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				158
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				437,
+				101
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-34
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				253
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				198,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "ddcomfirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				254,
+				143
+			],
+			"anim": "firstDeath",
+			"fps": 25,
+			"name": "dddies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				197,
+				135
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dddeathloop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dadDear",
+	"position": [
+		230,
+		280
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		0,
+		204
+	],
+	"camera_position": [
+		300,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

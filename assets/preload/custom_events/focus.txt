@@ -1,0 +1,8 @@
+Starts the focus event!
+
+Set param 1 (in lowercase) as either:
+	- "activate"
+	- "deactivate"
+(don't add the ""s in)
+I'm sure you can tell what does what
+Param 2 is useless so do whatever there

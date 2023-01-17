@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"focus",
+						"activate",
+						""
+					]
+				]
+			],
+			[
+				108493.150684932,
+				[
+					[
+						"Change Character",
+						"1",
+						"dank-majin"
+					],
+					[
+						"Change Character",
+						"bf",
+						"dank_bf"
+					]
+				]
+			],
+			[
+				132020.547945206,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"Dad"
+					]
+				]
+			],
+			[
+				134794.520547945,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					],
+					[
+						"Change Character",
+						"bf",
+						"danBF"
+					]
+				]
+			]
+		]
+	}
+}

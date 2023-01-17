@@ -1,0 +1,9 @@
+Sets the camera's target mid-section 
+(Resets on new section)
+
+Value 1: Camera Target (Not case sensitive)
+		 B = Boyfriend
+		 D = Dad
+		 DOESN'T WORK WITH GF, I HAVE TRIED
+
+Event by Saltyboii#2461 on Discord

@@ -1,0 +1,11 @@
+Plays a little dialogue thing in the middle of the screen
+Opponent: Use the "text notes" OR "visible text notes" to make text progress
+Player: Use "visible text notes" to make text progress
+Each note makes a new word appear
+Unless you add a * somewhere in a word
+So like, "your *self" is just 1 word (yourself)
+but it appears in different notes
+Text disappears for dad once he hits a normal note
+
+Value 1: Dialogue to play
+Value 2: "dad" or "boyfriend"

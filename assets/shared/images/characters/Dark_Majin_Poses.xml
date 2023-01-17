@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dark_Majin_Poses.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Dark Majin instance 10000" x="0" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10001" x="514" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10002" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10003" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10004" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10005" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10006" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10007" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10008" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10009" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10010" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10011" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10012" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10013" x="1542" y="0" width="514" height="807"/>
+	<SubTexture name="Down Dark Majin instance 10014" x="1028" y="0" width="514" height="807"/>
+	<SubTexture name="Idel Dark Majin instance 10000" x="2056" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10001" x="2778" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10002" x="3500" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10003" x="4222" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10004" x="4944" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10005" x="5666" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10006" x="6388" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10007" x="6388" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10008" x="7110" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10009" x="7110" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10010" x="6388" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10011" x="6388" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10012" x="7110" y="0" width="722" height="901"/>
+	<SubTexture name="Idel Dark Majin instance 10013" x="7110" y="0" width="722" height="901"/>
+	<SubTexture name="Jumping majin instance 10000" x="0" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10001" x="993" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10002" x="1986" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10003" x="2979" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10004" x="3972" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10005" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10006" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10007" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10008" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10009" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10010" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10011" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10012" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10013" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10014" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10015" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10016" x="4965" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10017" x="5958" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10018" x="6951" y="901" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10019" x="0" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10020" x="993" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10021" x="1986" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10022" x="2979" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10023" x="3972" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10024" x="4965" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10025" x="5958" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10026" x="6951" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10027" x="6951" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10028" x="6951" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10029" x="6951" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10030" x="6951" y="2161" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10031" x="0" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10032" x="993" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10033" x="1986" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10034" x="2979" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10035" x="3972" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10036" x="4965" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10037" x="5958" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10038" x="6951" y="3421" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10039" x="0" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10040" x="993" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10041" x="1986" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10042" x="2979" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10043" x="3972" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10044" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10045" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10046" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10047" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10048" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10049" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10050" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10051" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10052" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10053" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Jumping majin instance 10054" x="4965" y="4681" width="993" height="1260"/>
+	<SubTexture name="Left Dark Majin instance 10000" x="5958" y="4681" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10001" x="6900" y="4681" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10002" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10003" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10004" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10005" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10006" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10007" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10008" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10009" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10010" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10011" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10012" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10013" x="942" y="5941" width="942" height="852"/>
+	<SubTexture name="Left Dark Majin instance 10014" x="0" y="5941" width="942" height="852"/>
+	<SubTexture name="Right Dark Majin instance 10000" x="1884" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10001" x="2679" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10002" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10003" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10004" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10005" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10006" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10007" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10008" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10009" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10010" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10011" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10012" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10013" x="4269" y="5941" width="795" height="859"/>
+	<SubTexture name="Right Dark Majin instance 10014" x="3474" y="5941" width="795" height="859"/>
+	<SubTexture name="Up Dark Majin instance 10000" x="5064" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10001" x="5734" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10002" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10003" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10004" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10005" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10006" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10007" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10008" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10009" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10010" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10011" x="6404" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10012" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10013" x="7074" y="5941" width="670" height="933"/>
+	<SubTexture name="Up Dark Majin instance 10014" x="6404" y="5941" width="670" height="933"/>
+</TextureAtlas>

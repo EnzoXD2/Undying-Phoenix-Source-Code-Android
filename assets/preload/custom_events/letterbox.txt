@@ -1,0 +1,6 @@
+Yo, this event makes letterboxes pop up!
+Value 1 - Size: Specify from 0 to 400.
+Value 2 - Speed: How fast the boxes finish, SECONDS.
+
+Sorry for not using your val idea, Speed. 
+I didn't wanna deal with string splitting.

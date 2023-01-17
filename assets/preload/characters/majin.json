@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Majin Idel instance 1"
+		},
+		{
+			"offsets": [
+				179,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Majin Left instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				635
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Majin Right instance 1"
+		},
+		{
+			"offsets": [
+				110,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Majin Down instance 1"
+		},
+		{
+			"offsets": [
+				34,
+				571
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Majin Up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majin",
+	"position": [
+		-40,
+		70
+	],
+	"healthicon": "fun",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		0,
+		254
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}
