@@ -35,10 +35,7 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
-		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
-		#if !switch 'donate', #end
 		'options'
 	];
 
@@ -155,6 +152,10 @@ class MainMenuState extends MusicBeatState
 			}
 		}
 		#end
+			
+		#if android
+                addVirtualPad(LEFT_FULL, A_B);
+                #end
 
 		super.create();
 	}
