@@ -154,7 +154,7 @@ class MainMenuState extends MusicBeatState
 		#end
 			
 		#if android
-                addVirtualPad(UP_DOWN, A_B);
+                addVirtualPad(UP_DOWN, A_B_X_Y);
                 #end
 
 		super.create();
@@ -201,6 +201,18 @@ class MainMenuState extends MusicBeatState
 				selectedSomethin = true;
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 				MusicBeatState.switchState(new TitleState());
+			}
+			
+			#if android
+			if (virtualPad.buttonX.justPressed) {
+				PlayState.SONG = Song.loadFromJson('forever-hard', 'forever');
+				LoadingState.loadAndSwitchState(new PlayState(), true);
+			}
+			#end
+			}
+			if (virtualPad.buttonY.justPressed) {
+				PlayState.SONG = Song.loadFromJson('death-sentence-hard', 'death-sentence');
+				LoadingState.loadAndSwitchState(new PlayState(), true);
 			}
 
 			if (controls.ACCEPT)
