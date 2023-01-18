@@ -102,7 +102,7 @@ class OptionsState extends MusicBeatState
 		ClientPrefs.saveSettings();
 		
 		#if android
-                addVirtualPad(LEFT_FULL, A_B_C);
+                addVirtualPad(UP_DOWN, A_B_C);
                 #end
 
 		super.create();
